@@ -23,7 +23,7 @@ tests_require = [
 ]
 
 setup(
-    name='elasticsearch-async',
+    name='cosmos-elasticsearch-async',
     description="Async backend for elasticsearch-py",
     license="Apache License, Version 2.0",
     url="https://github.com/elastic/elasticsearch-py-async",
